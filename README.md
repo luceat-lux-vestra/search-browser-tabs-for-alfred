@@ -1,4 +1,4 @@
-Search tabs in Safari and Chrome (also supports WebKit, Chromium, Chrome Canary and Vivaldi)
+Search tabs in Safari and Chrome (also supports Safari Technology Preview, WebKit, Chromium, Chrome Canary and Vivaldi)
 
 Just added `Vivaldi` support to `Search Safari and Chrome Tabs` by `ClintonStrong`.
 
