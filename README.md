@@ -1,3 +1,9 @@
+## Changes
+> Icon for workflow  
+> Icons for search result: document.icns -> app.icns, compass.icns  
+> `Search Safari and Chrome Tabs.alfredworkflow` icons just from `alfred-tabs` and applied above changes  
+> If you prefer original icons, use `SearchTabs.alfredworkflow`  
+
 Search tabs in Safari and Chrome (also supports Safari Technology Preview, WebKit, Chromium, Chrome Canary and Vivaldi)
 
 Just added `Vivaldi` support to `Search Safari and Chrome Tabs` by `ClintonStrong`.

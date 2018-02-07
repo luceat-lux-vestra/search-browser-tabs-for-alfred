@@ -29,9 +29,9 @@ end
 
 def icon_for_tab(tab)
   if tab.browser == "WebKit" || tab.browser == "Safari"
-    "/Applications/Safari.app/Contents/Resources/document.icns"
+    "/Applications/Safari.app/Contents/Resources/compass.icns"
   else
-    "/Applications/#{tab.browser}.app/Contents/Resources/document.icns"
+    "/Applications/#{tab.browser}.app/Contents/Resources/app.icns"
   end
 end
 
