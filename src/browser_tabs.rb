@@ -18,7 +18,8 @@ module BrowserTabs
         'Google Chrome',
         'Google Chrome Canary',
         'Chromium',
-        'Vivaldi'
+        'Vivaldi',
+        'Brave Browser'
       ]
     end
 
