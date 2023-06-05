@@ -1,3 +1,44 @@
+## Special notes
+I'm the first person that who made search browser tabs work with firefox using extension.
+and time goes by, similar extensions appeared on firefox addons market.  
+
+It's good to hear.  
+
+I'm thinking I made some little changes on this world, feel good.  
+
+Someone think it's nothing, but I feel good and weired.
+
+Here's my [original one](https://github.com/luceat-lux-vestra/alfred-tabs-improved)
+I think it's not usable now, but it's memorable to me. haha.
+
+## Supported Browsers - I guess it's working well but not all browseres tested.
+```ruby
+      @supported_browsers ||= [
+        'Safari',
+        'Safari Technology Preview',
+        'WebKit',
+        'Google Chrome',
+        'Google Chrome Beta',
+        'Google Chrome Dev',
+        'Google Chrome Canary',
+        'Chromium',
+        'Opera',
+        'Opera Beta',
+        'Opera Developer',
+        'Opera GX',
+        'Vivaldi',
+        'Vivaldi Beta',
+        'Vivaldi Snapshot',
+        'Microsoft Edge',
+        'Microsoft Edge Beta',
+        'Microsoft Edge Dev',
+        'Microsoft Edge Canary',
+        'Brave Browser',
+        'Brave Browser Beta',
+        'Brave Browser Dev',
+        'Brave Browser Nightly'
+      ]
+```
 ## Changes
 > Icon for workflow  
 > Icons for search result: document.icns -> app.icns, compass.icns  
