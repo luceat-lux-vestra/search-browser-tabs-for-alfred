@@ -1,16 +1,3 @@
-## Special notes
-I'm the first person that who made search browser tabs work with firefox using extension.
-and time goes by, similar extensions appeared on firefox addons market.  
-
-It's good to hear.  
-
-I'm thinking I made some little changes on this world, feel good.  
-
-Someone think it's nothing, but I feel good and weired.
-
-Here's my [original one](https://github.com/luceat-lux-vestra/alfred-tabs-improved)
-I think it's not usable now, but it's memorable to me. haha.
-
 ## Supported Browsers - I guess it's working well but not all browseres tested.
 ```ruby
       @supported_browsers ||= [
